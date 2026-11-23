@@ -14,9 +14,7 @@ Machine Learning · Natural Language Processing · Computer Vision
 
 ## About me
 
-AI Engineering graduate from Galala University and a Digital Egypt Pioneers Initiative (DEPI) graduate. My work spans data preparation, machine learning experiments, technical documentation, and AI prototypes with Python.
-
-I care about the work behind a model: clean data, clear evaluation, and an honest account of what each team member contributed.
+Artificial Intelligence Engineering graduate with hands-on experience building, training, and evaluating machine learning and deep learning models for NLP and Computer Vision using Python, TensorFlow/Keras, PyTorch, and scikit-learn. Contributed dataset preparation, initial research, and technical documentation to a real-time Egyptian Sign Language translator graduation project, and co-developed a bilingual Seq2Seq LSTM chatbot (Kayo Bot) during DEPI, earning a top-performer project award. Grounded in the full machine learning workflow: data curation, feature engineering, model training, and evaluation, with working knowledge of Transformer architectures (self-attention, Vision Transformers), Generative AI (LLM and diffusion-model APIs), and foundational Retrieval-Augmented Generation (RAG). Brings a data-first mindset and strong cross-functional teamwork.
 
 ## Technical toolkit
 
