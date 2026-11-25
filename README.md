@@ -6,7 +6,7 @@
 
 Machine Learning · Natural Language Processing · Computer Vision
 
-[Email](mailto:eng.mohammed.ayman@outlook.com) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/mohamed-ayman-harash)
+[Portfolio](https://eng-mohammed-ayman.pages.dev) &nbsp; / &nbsp; [Email](mailto:eng.mohammed.ayman@outlook.com) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/mohamed-ayman-harash)
 
 ---
 
@@ -28,10 +28,21 @@ Artificial Intelligence Engineering graduate with hands-on experience building, 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-1F2937?style=flat-square&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **ML & data:** preprocessing, feature engineering, classification, clustering, PCA, cross-validation and model evaluation.
 
 **AI:** TensorFlow/Keras, PyTorch, sequence models, NLP preprocessing, OpenCV, MediaPipe and generative AI API integration.
+
+**AI-assisted development:** Claude Code, agentic coding workflows, prompt engineering and iterative AI-driven prototyping.
+
+## Featured: live project
+
+**[AI Study Platform for Egyptian Income Tax](https://egypt-income-tax-study.pages.dev)** | [Live demo](https://egypt-income-tax-study.pages.dev) | [Source](https://github.com/eng-mohammed-ayman/egypt-income-tax-study-platform)
+
+An interactive Arabic study platform for the Egyptian Income Tax Law No. 91 of 2005, built for students preparing for the course exam: 34 visual study posters, per-chapter summaries and a full navigation system. Built end to end with AI-assisted development (Claude Code, agentic coding workflows, prompt engineering) using HTML, CSS and JavaScript.
 
 ## Selected projects
 
