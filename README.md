@@ -48,10 +48,11 @@ An interactive Arabic study platform for the Egyptian Income Tax Law No. 91 of 2
 
 | Project | Focus | My contribution |
 | :--- | :--- | :--- |
+| [AI Study Platform for Egyptian Income Tax (Live)](https://github.com/eng-mohammed-ayman/egypt-income-tax-study-platform) | Interactive Arabic study platform, [live demo](https://egypt-income-tax-study.pages.dev) | Individual project built end to end with AI-assisted development: 34 visual study posters, per-chapter summaries and navigation. Study aid, not tax advice. |
 | [Egyptian Sign Language](https://github.com/eng-mohammed-ayman/Egyptian-Sign-Language-Showcase) | Graduation-project documentation showcase | Dataset preparation and refinement, initial research and technical documentation. No implementation code published. |
 | [Kayo Bot](https://github.com/eng-mohammed-ayman/Kayo-Bot) | Arabic-English technical Q&A chatbot | Collected, curated, merged and cleaned the team's Q&A data. Model and interface developed with teammates. |
-| [AI Content Creation Assistant](https://github.com/eng-mohammed-ayman/AI-Content-Creation-Assistant) | Text, image and video API prototype | Individual command-line prototype integrating generative AI APIs. Historical provider dependencies are documented. |
 | [Bank Customer Segmentation](https://github.com/eng-mohammed-ayman/Bank-Customer-Segmentation) | Customer analysis and clustering | Data cleaning and preprocessing, codebase understanding, report and poster. Team project. |
+| [AI Content Creation Assistant](https://github.com/eng-mohammed-ayman/AI-Content-Creation-Assistant) | Text, image and video API prototype | Individual command-line prototype integrating generative AI APIs. Historical provider dependencies are documented. |
 | [Automated Timetable Generation](https://github.com/eng-mohammed-ayman/Automated-Timetable-Generation) | Python/Flask scheduling prototype | Data preparation and technical documentation. Published examples use synthetic data. |
 | [Adaptive Learning Paths](https://github.com/eng-mohammed-ayman/Adaptive-Learning-Paths) | Student-performance coursework | Report and presentation, with codebase understanding. Team implementation. |
 
