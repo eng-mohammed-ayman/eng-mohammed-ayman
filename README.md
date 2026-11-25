@@ -49,14 +49,14 @@ An interactive Arabic study platform for the Egyptian Income Tax Law No. 91 of 2
 | Project | Focus | My contribution |
 | :--- | :--- | :--- |
 | [AI Study Platform for Egyptian Income Tax (Live)](https://github.com/eng-mohammed-ayman/egypt-income-tax-study-platform) | Interactive Arabic study platform, [live demo](https://egypt-income-tax-study.pages.dev) | Individual project built end to end with AI-assisted development: 34 visual study posters, per-chapter summaries and navigation. Study aid, not tax advice. |
-| [Egyptian Sign Language](https://github.com/eng-mohammed-ayman/Egyptian-Sign-Language-Showcase) | Graduation-project documentation showcase | Initial research, multi-model evaluation (LSTM vs. ConvNeXt), data refinement, Arabic text-rendering integration and technical documentation. No implementation code published. |
+| [Egyptian Sign Language](https://github.com/eng-mohammed-ayman/Egyptian-Sign-Language-Showcase) | Graduation-project documentation showcase | Initial research, multi-model evaluation (LSTM vs. ConvNeXt), data refinement, Arabic text-rendering integration and technical documentation. Team implementation code is not published. |
 | [Kayo Bot](https://github.com/eng-mohammed-ayman/Kayo-Bot) | Arabic-English technical Q&A chatbot | Collected, curated, merged and cleaned the team's Q&A data. Model and interface developed with teammates. |
 | [Bank Customer Segmentation](https://github.com/eng-mohammed-ayman/Bank-Customer-Segmentation) | Customer analysis and clustering | Co-analyzed a 1.04M+ transaction dataset (879,357 unique customers) with RFM features and PCA (92% variance, 4 components); K-Means at k=5 reached a 0.62 silhouette score across 5 segments. Team project. |
-| [AI Content Creation Assistant](https://github.com/eng-mohammed-ayman/AI-Content-Creation-Assistant) | Text, image and video API prototype | Built a multi-modal assistant (3 modalities, 4 content formats, 2 APIs) with parameterized prompts (0.7 temperature, 500-token limit) and 5 API bugs resolved. Historical provider dependencies are documented. |
+| [AI Content Creation Assistant](https://github.com/eng-mohammed-ayman/AI-Content-Creation-Assistant) | Text, image and video API prototype | Built a multi-modal assistant (3 modalities, 4 content formats, 2 APIs) with parameterized prompts (0.7 temperature, 500-token limit) and 5 API bugs resolved. |
 | [Automated Timetable Generation](https://github.com/eng-mohammed-ayman/Automated-Timetable-Generation) | Python/Flask scheduling prototype | Co-engineered a greedy scheduling engine across 24 weekly timeslots that dynamically eliminates instructor/classroom overlaps; data preparation across 4 Excel schemas (916 records). Published examples use synthetic data. |
-| [Adaptive Learning Paths](https://github.com/eng-mohammed-ayman/Adaptive-Learning-Paths) | Student-performance coursework | Report and presentation, with codebase understanding. Team implementation. |
+| [Adaptive Learning Paths](https://github.com/eng-mohammed-ayman/Adaptive-Learning-Paths) | Student-performance coursework | Wrote the report and presentation and worked through the decision-tree code and results. Team project. |
 
-Each repository explains its setup, provenance, contribution boundaries and known limitations. These are learning and prototype projects, not production-service claims.
+Each repository explains its setup, credits and scope. Team projects are labeled as such.
 
 ---
 
